@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spytyc/Weather_App.git/static/css/main.0500478f.css",
+    "main.js": "/spytyc/Weather_App.git/static/js/main.55ba5205.js",
+    "static/media/nasa-i9w4Uy1pU-s-unsplash.jpg": "/spytyc/Weather_App.git/static/media/nasa-i9w4Uy1pU-s-unsplash.ef950ea00858ac7639eb.jpg",
+    "index.html": "/spytyc/Weather_App.git/index.html",
+    "main.0500478f.css.map": "/spytyc/Weather_App.git/static/css/main.0500478f.css.map",
+    "main.55ba5205.js.map": "/spytyc/Weather_App.git/static/js/main.55ba5205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0500478f.css",
+    "static/js/main.55ba5205.js"
+  ]
+}
